@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+implicit
+flask
+click
+scipy
+sqlalchemy
+plotly
